@@ -1,0 +1,22 @@
+{
+  "name": "link-daftar-situs-pg-soft-terbaik-dan-terpercaya",
+  "main": "slot-pg-soft",
+  "theme": "ui",
+  "version": "1.24.0",
+  "description": "NXSLOT88 : Link Daftar Situs PG Soft Terbaik dan Terpercaya di Asia",
+  "keywords": [
+    "PG Soft 2022",
+    "pg soft terbaik dan terpercaya",
+    "situs pg soft gacor",
+    "pg soft gacor hari ini",
+    "slot gacor pg soft"
+  ],
+  "activationCommands": {
+    "atom-workspace": "slot-pg-soft-terpercaya:toggle"
+  },
+  "repository": "https://github.com/matabatinku/slot-pg-soft-resmi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
